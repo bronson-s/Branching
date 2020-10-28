@@ -4,5 +4,9 @@ wigggle
 * 'git init' -
 * git status
 
-* git log - shows commit history
-* git config -l   - lists git config
+* git log - shows commit history  
+
+
+
+
+BIG ASS CHANGEs
